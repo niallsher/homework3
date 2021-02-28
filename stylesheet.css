@@ -1,0 +1,10 @@
+
+
+
+list {position: relative; background-color: #dfdfe5; box-sizing: border-box; margin-left: 50px;}
+
+song {display: block; padding: 10px 5px;}
+
+artist {font-size: 18px; font-weight: 700;}
+/*title {display: block; padding-left: 10px;}*/
+title,genre,year {display: block; padding-left: 10px;}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylesheet.css" ?>
+
+
+<list>
+	<song>
+		<artist>Tom Petty</artist>
+		<title>Free Fallin'</title>
+		<genre>Classic Rock</genre>
+		<year>1989</year>
+	</song>
+
+	<song>
+		<artist>Tom Petty</artist>
+		<title>American Girl</title>
+		<genre>Classic Rock</genre>
+		<year>1976</year>
+	</song>
+
+	<song>
+		<artist>Elvis Costello &amp; The Attractions</artist>
+		<title>Everyday I Write The Boook</title>
+		<genre>New Wave/post-punk</genre>
+		<year>1983</year>
+	</song>
+
+	<song>
+		<artist>Elvis Costello</artist>
+		<title>Watching The Detectives</title>
+		<genre>Rock</genre>
+		<year>1977</year>
+	</song>
+
+	<song>
+		<artist>Elvis Costello</artist>
+		<title>Alison</title>
+		<genre>New wave</genre>
+		<year>1977</year>
+	</song>
+
+	<song>
+		<artist>Joe Jackson</artist>
+		<title>Sunday Papers</title>
+		<genre>Alternative</genre>
+		<year>1979</year>
+	</song>
+
+	<song>
+		<artist>Joe Jackson</artist>
+		<title>Steppin' Out</title>
+		<genre>Pop</genre>
+		<year>1982</year>
+	</song>
+
+	<song>
+		<artist>Earth, Wind &amp; Fire</artist>
+		<title>September</title>
+		<genre>Disco</genre>
+		<year>1978</year>
+	</song>
+
+	<song>
+		<artist>Joe Jackson</artist>
+		<title>It's Different For Girls</title>
+		<genre>New Wave</genre>
+		<year>1979</year>
+	</song>
+
+	<song>
+		<artist>Earth, Wind &amp; Fire</artist>
+		<title>Let's Groove</title>
+		<genre>Funk</genre>
+		<year>1981</year>
+	</song>
+
+	<song>
+		<artist>George Strait</artist>
+		<title>I Got a Car</title>
+		<genre>Contemporary country</genre>
+		<year>2013</year>
+	</song>
+
+	<song>
+		<artist>Zac Brown Band</artist>
+		<title>Cold Hearted</title>
+		<genre>Country</genre>
+		<year>2010</year>
+	</song>
+
+
+
+</list>
